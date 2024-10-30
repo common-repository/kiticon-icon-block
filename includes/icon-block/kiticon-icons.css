@@ -1,0 +1,22 @@
+div[data-type="carbon-fields/kiticon-icon"] .cf-field.cf-radio-image .cf-field__body {
+    box-shadow: 0 0 10px 1px #00000012;
+    padding: 20px;
+    margin-top: 20px;
+}
+div[data-type="carbon-fields/kiticon-icon"] .cf-field.cf-radio-image .cf-radio__list {
+    max-height: 260px;
+    overflow-y: auto;
+    margin-left: 0;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+div[data-type="carbon-fields/kiticon-icon"] .cf-field.cf-radio-image .cf-radio__list .cf-radio__list-item {
+    flex-basis: 15%;
+}
+div[data-type="carbon-fields/kiticon-icon"] .cf-field.cf-radio-image .cf-radio__list .cf-radio__list-item .cf-radio__label img {
+    width: 40px;
+}
+
+.kiticon-area .kiticon-icon svg {
+    display: inline-block;
+}
